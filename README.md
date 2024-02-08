@@ -34,4 +34,4 @@ Distributed under the MIT License.
 
 Anna Booker https://www.linkedin.com/in/annadbooker
 
-project - https://github.com/annabook21/LogParser/
+project - https://github.com/annabook21/SubnetHelper/
